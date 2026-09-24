@@ -9,3 +9,5 @@ The topics are:
 -HTM
 -CSS
 -JS
+
+MAIND year 2026/2027
